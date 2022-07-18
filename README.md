@@ -17,5 +17,6 @@ time at 60 second granularity:
 
 a. What is the average mid price per market?
 b. Which exchange would we prefer to execute a $50k buy or sell order on? At what price?
+
 3. Your presentation should cover your architectural decisions, implementation details, and
 solution to handling the business analytics requested in (2).
